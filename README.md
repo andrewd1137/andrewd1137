@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andrewd1137
+- 👀 I’m interested in Angular, TypeScript, C#, Python, and JavaScript.
+- 🌱 I’m currently learning more about Front End Development.
+- ✨ Go to my other github page here: https://github.com/andydemarks
